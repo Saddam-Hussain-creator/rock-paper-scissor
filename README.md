@@ -1,5 +1,4 @@
 # rock-paper-scissor
 My first repositary in Git.
 <br>
-Author = Saddam Hussain
-age = 44
+Author = Saddam Hussain 
